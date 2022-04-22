@@ -1,28 +1,9 @@
-body {
-  padding: 2rem 0 0 2rem;
+body{
+  font-family: 'Fira Sans', sans-serif;
+  color: #0d6efd;
+  background-color: #0d6efd;
 }
 
-.bg {
-  background-color: white;
-}
-
-#quote-box {
-  margin: auto;
-  padding: auto;
-  text-align: center;
-  }
-
-#text {
-  font-size: 4rem;
-}
-
-#author {
-  font-size: 3rem;
-  text-align: right;
-}
-
-#buttons {
-  position: sticky;
-  padding: 4vw;
-  margin: 4vw;
+#text{
+  font-size: 36px;
 }
