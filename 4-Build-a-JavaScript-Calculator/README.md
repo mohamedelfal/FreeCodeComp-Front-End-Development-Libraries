@@ -45,4 +45,6 @@ You can build your project by using this CodePen template and clicking Save to c
 
 Once you're done, submit the URL to your working project with all its tests passing.
 
-Solution Link   
+Solution Link:   
+
+https://mohamedelfal.github.io/FreeCodeComp-Front-End-Development-Libraries/4-Build-a-JavaScript-Calculator/
