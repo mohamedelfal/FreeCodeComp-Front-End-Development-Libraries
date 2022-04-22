@@ -1,9 +1,6 @@
-This is the solution to Freecodecamp>>>
-Front End Libraries Projects - Build a Random Quote Machine
-Live Site:  https://freecodecamp-solutions.github.io/Build-a-Random-Quote-Machine/
-
-
+Build a Random Quote Machine
 Objective: Build a CodePen.io app that is functionally similar to this: https://codepen.io/freeCodeCamp/full/qRZeGZ.
+
 Fulfill the below user stories and get all of the tests to pass. Give it your own personal style.
 
 You can use any mix of HTML, JavaScript, CSS, Bootstrap, SASS, React, Redux, and jQuery to complete this project. You should use a frontend framework (like React for example) because this section is about learning frontend frameworks. Additional technologies not listed above are not recommended and using them is at your own risk. We are looking at supporting other frontend frameworks like Angular and Vue, but they are not currently supported. We will accept and try to fix all issue reports that use the suggested technology stack for this project. Happy coding!
@@ -26,13 +23,15 @@ User Story #8: When the #new-quote button is clicked, my quote machine should fe
 
 User Story #9: My quote machine should fetch the new quote's author when the #new-quote button is clicked and display it in the #author element.
 
-User Story #10: I can tweet the current quote by clicking on the #tweet-quotea element. This a element should include the "twitter.com/intent/tweet" path in its href attribute to tweet the current quote.
+User Story #10: I can tweet the current quote by clicking on the #tweet-quote a element. This a element should include the "twitter.com/intent/tweet" path in its href attribute to tweet the current quote.
 
 User Story #11: The #quote-box wrapper element should be horizontally centered. Please run tests with browser's zoom level at 100% and page maximized.
 
-You can build your project by forking this CodePen pen. Or you can use this CDN link to run the tests in any environment you like: https://cdn.freecodecamp.org/testable-projects-fcc/v1/bundle.js
+You can build your project by using this CodePen template and clicking Save to create your own pen. Or you can use this CDN link to run the tests in any environment you like: https://cdn.freecodecamp.org/testable-projects-fcc/v1/bundle.js
 
 Once you're done, submit the URL to your working project with all its tests passing.
 
 Note: Twitter does not allow links to be loaded in an iframe. Try using the target="_blank" or target="_top" attribute on the #tweet-quote element if your tweet won't load. target="_top" will replace the current tab so make sure your work is saved.
-Freecodecamp: https://www.freecodecamp.org/learn/front-end-libraries/front-end-libraries-projects/build-a-random-quote-machine
+
+Solution Link:  
+https://mohamedelfal.github.io/FreeCodeComp-Front-End-Development-Libraries/1-Build-a-Random-Quote-Machine/
