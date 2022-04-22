@@ -1,0 +1,46 @@
+*{
+  color: #2C3A47;
+}
+body{
+  background-color: #58B19F;
+  font-family: 'Bitter', serif;
+  }
+
+textarea{
+  border: 3px dashed #EAB543;
+  width: 70vw;
+  height: 25vh;
+  background-color: #F8EFBA;
+}
+
+#preview{
+  border: 3px solid #EAB543;
+  width: 90vw;
+  background-color: #F8EFBA;
+}
+
+img{
+  width: 50%;
+}
+
+table, th, td{
+  border: 1px solid black;
+}
+
+code {
+  background-color: #F2E9E4;
+  border: 1px solid #999;
+  display: inline-block;
+  padding: 3px;
+}
+
+blockquote {
+    padding: 15px;
+    background: #eee;
+    color: #000;
+    border-radius: 5px;
+}
+
+ h2{
+  color: #BDC581;
+}
