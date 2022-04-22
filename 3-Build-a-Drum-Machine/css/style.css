@@ -1,0 +1,57 @@
+body{
+  font-family: 'Permanent Marker', cursive;
+  background-color: #16a085;
+  font-size: 42px;
+  min-height: 100vh;
+}
+
+h1{
+  color: #1abc9c;
+  font-size: 36px;
+  display: block;
+}
+
+.padDisplay{
+  background-color: #FFF;
+  border-radius: 4px;
+  display: flex;
+  flex-wrap: wrap;
+  width: 360px;
+  padding: 20px;
+  justify-content: center;
+}
+
+.container{
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.drum-pad{
+  border: 1px solid #000;
+  border-radius: 4px;
+  background-color: #2c3e50;
+  color: #ecf0f1;
+  width: 100px;
+  height: 100px;
+  margin: 5px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  box-shadow: 2px 2px 5px grey;
+}
+
+.drum-pad.active{
+  opacity: 0.6;  
+}
+
+.display{
+  color: #1abc9c;
+  font-size: 26px;
+  height: 36px;
+  min-width: 50%;
+  border: 1px solid #000;
+  padding: 2px;
+  text-align: center;
+}
