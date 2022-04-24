@@ -26,7 +26,6 @@ You can build your project by using this CodePen template and clicking Save to c
 Once you're done, submit the URL to your working project with all its tests passing.
 
 Solution Link:  
+[codepen.io](https://codepen.io/mohamedantar/full/dyJLdwE)
 
-
-
-https://mohamedelfal.github.io/FreeCodeComp-Front-End-Development-Libraries/2-Build-a-Markdown-Previewer/
+[github.io](https://mohamedelfal.github.io/FreeCodeComp-Front-End-Development-Libraries/2-Build-a-Markdown-Previewer/)
