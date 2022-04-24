@@ -1,5 +1,7 @@
+# ![fcc_secondary](./image/fcc_secondary.svg)
+
 # FreeCodeComp Front End Development Libraries [course link](https://www.freecodecamp.org/learn/front-end-development-libraries)
-![fcc_secondary](./image/fcc_secondary.svg)
+
 ## Bootstrap
 Bootstrap is a front end framework used to design responsive web pages and applications. It takes a mobile-first approach to web development, and includes pre-built CSS styles and classes, plus some JavaScript functionality.
 
@@ -46,14 +48,23 @@ Now that you know how to manage the flow of shared data with Redux, it's time to
 
 ## Build a Random Quote Machine [Project details](https://www.freecodecamp.org/learn/front-end-development-libraries/front-end-development-libraries-projects/build-a-random-quote-machine)
 
+**[Solution](https://github.com/mohamedelfal/FreeCodeComp-Front-End-Development-Libraries/tree/main/1-Build-a-Random-Quote-Machine)**
+
 ## Build a Markdown Previewer [Project details](https://www.freecodecamp.org/learn/front-end-development-libraries/front-end-development-libraries-projects/build-a-markdown-previewer)
+
+**[Solution](https://github.com/mohamedelfal/FreeCodeComp-Front-End-Development-Libraries/tree/main/2-Build-a-Markdown-Previewer)**
 
 ## Build a Drum Machine [Project details](https://www.freecodecamp.org/learn/front-end-development-libraries/front-end-development-libraries-projects/build-a-drum-machine)
 
+**[Solution](https://github.com/mohamedelfal/FreeCodeComp-Front-End-Development-Libraries/tree/main/3-Build-a-Drum-Machine)**
 
 ## Build a JavaScript Calculator [Project details](https://www.freecodecamp.org/learn/front-end-development-libraries/front-end-development-libraries-projects/build-a-javascript-calculator)
 
+**[Solution](https://github.com/mohamedelfal/FreeCodeComp-Front-End-Development-Libraries/tree/main/4-Build-a-JavaScript-Calculator)**
+
 ## Build a 25 + 5 Clock [Project details](https://www.freecodecamp.org/learn/front-end-development-libraries/front-end-development-libraries-projects/build-a-25--5-clock)
+
+**[Solution](https://github.com/mohamedelfal/FreeCodeComp-Front-End-Development-Libraries/tree/main/5-Build-a-25-5-Clock)**
 
 #  [Certification](https://www.freecodecamp.org/certification/MohamedAntar/front-end-development-libraries)
 ![https://www.freecodecamp.org/certification/MohamedAntar/front-end-development-libraries](./image/FrontEndDevelopmentLibraries.png)
